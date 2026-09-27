@@ -18,8 +18,8 @@ The song testifies to a profound truth: God meets us at our lowest point. Not af
 | **Composer** | Scott Seto |
 | **Key** | E♭ minor (pentatonic) |
 | **Time Signature** | 4/4 |
-| **Tempo** | 90 BPM (measures 1–111), 110 BPM (measures 112–151) |
-| **Length** | 151 measures, ~6:23 |
+| **Tempo** | 90 BPM (measures 1–111), 110 BPM (measures 112–162) |
+| **Length** | 162 measures, ~6:47 |
 | **Melody Range** | E♭3 – B4 |
 | **Instrumentation** | Piano (melody), Tenor Sax (interludes), Piano (chords) |
 | **License** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
@@ -35,8 +35,10 @@ The song testifies to a profound truth: God meets us at our lowest point. Not af
 | Sax Interlude II | 85–92 | 90 | The sax returns, higher and more insistent |
 | The Chant | 93–110 | 90 | "I put my trust in you"—harmony steps into another world |
 | Silence | 111 | 90 | One full bar: the voice falls silent over a held E♭m |
-| Finale: Lifted Up | 112–144 | **110** | The tempo surges; testimony becomes urgent |
-| Outro | 145–151 | 110 | One last C♭–G♭–D♭, landing on four bars of E♭m—the rock |
+| Finale: Lifted Up | 112–139 | **110** | The tempo surges; testimony becomes urgent |
+| Bridge | 140–149 | 110 | "You are the perfect lamb for us"—twice, over the song's only B♭m7 |
+| Final Refrain | 150–155 | 110 | The answer comes back: "I've brought you up, delivered You" |
+| Outro | 156–162 | 110 | One last C♭–G♭–D♭, landing on four bars of E♭m—the rock |
 
 ---
 
@@ -170,14 +172,21 @@ The song testifies to a profound truth: God meets us at our lowest point. Not af
 > There is a hope  
 > There is a way  
 > Find it in Me  
+
+### Bridge
+> You are the perfect lamb for us  
+> You are the perfect la-a-amb for us  
+> You are the perfect lamb for us  
+> You are the perfect la-a-amb for us  
+
+### Final Refrain
 > At rock bottom  
->
 > I've brought you up  
 > Delivered You  
 > There is hope  
 > At rock bottom  
 
-In the final stanzas the voice flips: "Find it in Me" and "I've brought you up, delivered You" are the answer coming back—God speaking into the prayer.
+In the final stanzas the voice flips: "Find it in Me" and "I've brought you up, delivered You" are the answer coming back—God speaking into the prayer. Between them, the bridge names the ground that answer stands on: "You are the perfect lamb for us."
 
 ---
 
@@ -190,7 +199,7 @@ The melody of every verse, tag, and finale line uses **E♭ minor pentatonic** (
 - Simplicity that serves the prayer, not the performance
 - Accessibility for congregational singing
 
-The one deliberate exception is **the chant** (mm. 93–110), which steps outside the six-flat world entirely—see below.
+There are two deliberate exceptions: **the chant** (mm. 93–110), which steps outside the six-flat world entirely, and **the bridge** (mm. 140–149), whose melody leans on F—the second degree, the first melody note beyond the five—see below.
 
 ### The Core Motifs
 The song is built from four melodic shapes:
@@ -208,7 +217,7 @@ Once you know these four shapes, the note tables below become easy to read—alm
 | E♭m | C♭ | G♭ | D♭ |
 ```
 
-The loop runs unbroken from measure 1 through measure 92, pauses for the chant, then **restarts on E♭m at measure 112** and runs to measure 147. The loop ends on D♭ (the dominant), not the tonic, creating continuous forward pull—the song wants to keep going, like a pilgrimage that doesn't stop.
+The loop runs unbroken from measure 1 through measure 92, pauses for the chant, then **restarts on E♭m at measure 112**, steps aside for the bridge (mm. 140–149), and resumes on E♭m at measure 150, running to measure 158. The loop ends on D♭ (the dominant), not the tonic, creating continuous forward pull—the song wants to keep going, like a pilgrimage that doesn't stop.
 
 **The chant harmony** (mm. 93–110) leaves E♭ minor for a parallel world of naturals. Each chant line spans five bars:
 
@@ -218,7 +227,15 @@ The loop runs unbroken from measure 1 through measure 92, pauses for the chant, 
 
 …and each "at rock bottom" response lands back on E♭m. The half-step slip between E♭m and Em makes the chant feel like a held breath in another room before the door opens again.
 
-**The ending** (mm. 148–151): four bars of E♭m, held. The song finally lands on the tonic—on the rock, at rock bottom, because that's where the foundation was found.
+**The bridge harmony** (mm. 140–149) introduces the song's only chord from outside the loop—B♭m7, the minor dominant (v7):
+
+```
+| E♭m | B♭m7 | E♭m | B♭m7 | D♭ |   (played twice)
+```
+
+The second phrase falls F–E♭, landing "us" on the tonic just as "at rock bottom" returns over E♭m.
+
+**The ending** (mm. 159–162): four bars of E♭m, held. The song finally lands on the tonic—on the rock, at rock bottom, because that's where the foundation was found.
 
 ### The Momentum
 Several elements create the song's distinctive processional quality:
@@ -235,7 +252,7 @@ Several elements create the song's distinctive processional quality:
 Complete melody transcription from the engraved score (`at-rock-bottom-piano.musicxml`).
 
 **How to read the tables:**
-- **mm.** = measure numbers in the score. Since the chords loop one per bar, the measure number tells you the harmony (mm. 1–92: bar 1 = E♭m, bar 2 = C♭, bar 3 = G♭, bar 4 = D♭, repeating; mm. 112–147: same loop restarting on E♭m at 112).
+- **mm.** = measure numbers in the score. Since the chords loop one per bar, the measure number tells you the harmony (mm. 1–92: bar 1 = E♭m, bar 2 = C♭, bar 3 = G♭, bar 4 = D♭, repeating; mm. 112–139: the same loop restarting on E♭m at 112; the bridge, mm. 140–149, has its own chords, and the loop resumes on E♭m at 150).
 - **Melody** = one note per syllable, in order. Octaves follow scientific pitch notation (C4 = middle C).
 - `~` joins tied notes sung on a single syllable (e.g. `A♭4~A♭4` is one syllable held across the tie).
 - A trailing extra note is a melisma tail—the last word carried down, almost always to E♭3.
@@ -377,7 +394,7 @@ The melody leaves the pentatonic scale here—all naturals, over the Em–Cmaj7�
 
 **Measure 111**: the voice falls silent for one full bar while the E♭m chord sustains—the held breath before the lift.
 
-### Finale: Lifted Up (mm. 112–144, ♩ = 110)
+### Finale: Lifted Up (mm. 112–139, ♩ = 110)
 
 | mm. | Lyric | Melody |
 |----:|-------|--------|
@@ -403,15 +420,33 @@ The melody leaves the pentatonic scale here—all naturals, over the Em–Cmaj7�
 | 136 | There is a hope | D♭4 B♭3 A♭3 E♭3 |
 | 136–138 | There is a way | B♭3~B♭3~B♭3 G♭3 D♭4 A♭3~A♭3 |
 | 138–139 | Find it in Me | B♭3 B♭3 D♭4 D♭4~D♭4 |
-| 139 | At rock bottom | A♭3 B♭3 G♭3 E♭3 |
-| 140 | I've brought you up | G♭4 A♭4 B♭4 A♭4 |
-| 141–142 | Delivered You | E♭4 A♭4 A♭4~A♭4 E♭4 |
-| 142–143 | There is hope | G♭4 G♭4~G♭4 D♭4 |
-| 143–144 | At rock bottom | A♭3 B♭3 G♭3 E♭3~E♭3 |
 
-### Outro (mm. 145–151)
+### Bridge (mm. 140–149)
 
-The voice is done. The chords make one final turn—C♭ (145), G♭ (146), D♭ (147)—and then **E♭m sustains for four full bars (148–151)**. After ninety-two bars of a loop that always ended on the dominant, the song finally lands. On the tonic. On the rock.
+After "find it in Me," the song answers with its most explicit line of testimony, sung twice straight through with no breath between phrases. The melody introduces F (the second degree, the one note the pentatonic scale never touches) and the harmony introduces B♭m7, the only chord in the song from outside the loop:
+
+| mm. | Lyric | Melody |
+|----:|-------|--------|
+| 140–141 | You are the perfect lamb for us | D♭4 F4 G♭4 A♭4 D♭4 B♭4 A♭4 A♭4 |
+| 142–144 | You are the perfect la-a-amb for us | D♭4 F4 G♭4 A♭4 D♭4 B♭4 A♭4 A♭4 F4~F4 E♭4 |
+| 145–146 | You are the perfect lamb for us | D♭4 F4 G♭4 A♭4 D♭4 B♭4 A♭4 A♭4 |
+| 147–149 | You are the perfect la-a-amb for us | D♭4 F4 G♭4 A♭4 D♭4 B♭4 A♭4 A♭4 F4~F4 E♭4 |
+
+The second phrase falls F–E♭, landing "us" on the tonic exactly as "at rock bottom" comes back in.
+
+### Final Refrain (mm. 150–155)
+
+| mm. | Lyric | Melody |
+|----:|-------|--------|
+| 150 | At rock bottom | A♭3 B♭3 G♭3 E♭3 |
+| 151 | I've brought you up | G♭4 A♭4 B♭4 A♭4 |
+| 152–153 | Delivered You | E♭4 A♭4 A♭4~A♭4 E♭4 |
+| 153–154 | There is hope | G♭4 G♭4~G♭4 D♭4 |
+| 154–155 | At rock bottom | A♭3 B♭3 G♭3 E♭3~E♭3 |
+
+### Outro (mm. 156–162)
+
+The voice is done. The chords make one final turn—C♭ (156), G♭ (157), D♭ (158)—and then **E♭m sustains for four full bars (159–162)**. After ninety-two bars of a loop that always ended on the dominant, the song finally lands. On the tonic. On the rock.
 
 ---
 
@@ -439,18 +474,20 @@ The song is not about staying at rock bottom. It's about discovering that God is
 - The chant (mm. 93–110) can be sung by the congregation as a round of trust
 - Honor the bar of silence at measure 111—it's part of the song
 - The tempo change at measure 112 should feel like a surge of hope, not just faster
+- Sing the bridge (m. 140) plainly, twice through without ornament—it's the song's confession, and the two phrases run on without a breath between them
 
 ### For Musicians
 **Key signature**: 6 flats (E♭ minor)—guitarists may want a capo or transpose
 
 **Chord progressions**:
 ```
-| E♭m | C♭ | G♭ | D♭ |                                    (main loop, mm. 1–92 and 112–147)
+| E♭m | C♭ | G♭ | D♭ |                                    (main loop, mm. 1–92, 112–139, 150–158)
 | E♭m | Em  Cmaj7 | Cmaj7  Am7  D | Em  Cmaj7 | Cmaj7  Am7  B7 |   (chant cycle, mm. 93–110)
-| E♭m (held, 4 bars) |                                     (ending, mm. 148–151)
+| E♭m | B♭m7 | E♭m | B♭m7 | D♭ |                          (bridge, played twice, mm. 140–149)
+| E♭m (held, 4 bars) |                                     (ending, mm. 159–162)
 ```
 
-**Tempo marking**: ♩ = 90 (measures 1–111), then "faster" ♩ = 110 (measures 112–151)
+**Tempo marking**: ♩ = 90 (measures 1–111), then "faster" ♩ = 110 (measures 112–162)
 
 **Melodic landing points**:
 - Lines ending on E♭: resolved, can breathe
@@ -481,7 +518,7 @@ The refrain "at rock bottom / there you'll find me" is both:
 1. **Testimony**: That's where God met me
 2. **Invitation**: That's where God will meet you too
 
-And like many lament psalms, the song ends with the answer arriving: the closing lines shift from the singer's voice to God's—"Find it in Me… I've brought you up."
+And like many lament psalms, the song ends with the answer arriving: the closing lines shift from the singer's voice to God's—"Find it in Me… I've brought you up." The bridge, sung between those two lines, names the ground of it all: "You are the perfect lamb for us"—the song's one explicit confession of Christ, set on the one melody note and the one chord the rest of the song never uses.
 
 ## License
 
