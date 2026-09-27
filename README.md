@@ -423,12 +423,10 @@ The song is not about staying at rock bottom. It's about discovering that God is
 
 ## Files Included
 
-- `song.txt` — Complete lyrics
-- `PATTERNS.md` — Detailed melodic and harmonic analysis
-- `composition-v15.json` — Machine-readable composition data with precise timing
-- `at-rock-bottom-melody.mid` — MIDI file with melody and chord progression
-- `final/at-rock-bottom-piano.musicxml` — Professional sheet music notation (the source for the note tables above)
-- `ROCK_README.md` — This file
+- `at-rock-bottom-piano.pdf` — Printable sheet music
+- `at-rock-bottom-piano.musicxml` — Professional sheet music notation (the source for the note tables above); opens in MuseScore, Finale, Sibelius, etc.
+- `visualizer.html` — Interactive visualizer; open in any browser
+- `README.md` — This file
 
 ## Performance Notes
 
